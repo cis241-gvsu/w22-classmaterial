@@ -14,7 +14,7 @@ This course should help acquaint you with:
 ### Helpful Links
 
 * [Syllabus](syllabus.md)
-* [Piazza](piazza.com/gvsu/winter2022/cis241/home) -- also [FAQ about Piazza](piazza-faq.md)
+* [Piazza](https://www.piazza.com/gvsu/winter2022/cis241/home) -- also [FAQ about Piazza](piazza-faq.md)
 * [PrairieLearn](https://www.prairielearn.org/pl/course_instance/128995) - log-in
   using "Google" and use your GVSU gmail account
 * [ClassTranscribe](https://classtranscribe.illinois.edu/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6) -
