@@ -1,4 +1,4 @@
-# Welcome to CIS 241 - System-level Programming and Utilities, Fall 2021
+# Welcome to CIS 241 - System-level Programming and Utilities, Winter 2022
 
 ## About the Course
 
