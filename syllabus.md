@@ -6,14 +6,12 @@ Instructor: Erin Carrier
 Office:  C-2-211 MAK
 
 Office Hours:
-  * Virtual:  Wednesdays 2:00pm - 3:00pm (zoom link will be posted to piazza)
-  * In-person:  
-    * Mondays 1:00pm - 2:00pm
-    * Fridays 9:00am - 9:55am
+  * Virtual:  Wednesdays 6:30pm - 7:30pm (zoom link will be posted to piazza)
+  * In-person:  Mondays and Fridays 10:45am - 11:45am
 
 Contact:
 
-* [Piazza](piazza.com/gvsu/fall2022/cis241/home) **preferred**
+* [Piazza](piazza.com/gvsu/winter2022/cis241/home) **preferred**
 * [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS241]) ^^^in almost all cases use Piazza
 
 ## Course Description
@@ -86,7 +84,7 @@ After successful completion of the course a student should be able to:
 | [94, 100] | A     | [90, 94)  | A-    |           |       |
 | [87, 90)  | B+    | [84, 87)  | B     | [80, 84)  | B-    |
 | [77, 80)  | C+    | [74, 77)  | C     | [70, 74)  | C-    |
-| [67, 70)  | D+    | [63, 67)  | D     | [0, 63)   | F     |
+| [67, 70)  | D+    | [60, 67)  | D     | [0, 60)   | F     |
 
 ## Extra Credit
 There will be two opportunities for extra credit.  
@@ -112,7 +110,7 @@ There will be two opportunities for extra credit.
   In order to encourage this, extra credit will be awarded to students
   based on contributions to the captioning of the videos.  The
   exact formula is not yet determined, but the extra credit will
-  be capped at 1% of the overall course grade.  In the past, 80 edits (each
+  be capped at 1% of the overall course grade.  In the past, 100 edits (each
   edit can be a simple as correcting a typo, capitalization, or even
   punctuation) was sufficient for earning the full 1%.
 
@@ -199,7 +197,7 @@ Exams will be taken on PrairieLearn and consist of both
 non-coding (multiple choice, fill-in-the-blank, etc.) questions
 and one or more coding questions.  Exams will be taken
 on a specific day, but at the time of your choosing.  However, once
-you start the exam you will have only a set amount of time
+you start the midterm you will have only a set amount of time
 to complete it (not the whole day).  
 
 There will be a culminating experience held during the officially scheduled
@@ -218,7 +216,7 @@ All students are expected to adhere to the academic honesty standards
 set forth by Grand Valley State University. In addition, students
 in this course are expected to adhere to the [academic honesty
 guidelines as set forth by the School of Computing and Information
-Systems](https://www.gvsu.edu/computing/academic-honesty-30.htm). 
+Systems](https://www.cis.gvsu.edu/academic-honesty/). 
 
 For this course:
 * **Mini-labs**:  you are welcome to collaborate with classmates
@@ -232,8 +230,7 @@ For this course:
   code, working on code together, etc.
   You are not allowed to copy code from online (even if you change
   parts of the code).  You are also not allowed to use or benefit from any full
-  solutions to problems (or solutions to a large component of a problem) 
-  that you may find online.
+  solutions to problems that you may find online.
   Fundamentally, the work you turn in must be your own.
 * **Exams**:  Exams are to be completed individually.  Exams are open-book,
   open-note, and open-internet for general resources.
@@ -259,10 +256,6 @@ For this course:
   portion of the problem (regardless of whether or not you were the one asking).*
 * Can I use sites like Chegg?  *No, this would be considered an academic
   integrity violation, even if you were not the one posting the question*
-* Can I use general online resources?  *That depends.
-  Fundamentally, the work you turn in must
-  be your own.  This means that heavily basing your solution on (or directly copying)
-  code for a large component of a problem is not allowed.*
 
 #### Regret Policy
 I recognize that courses can be stressful and occasional lapses of judgement
@@ -287,7 +280,7 @@ Upon invoking the regret clause
 3. Because you made this decision of your own accord and withdrew your submission,
    this instance will not be considered an academic integrity violation and will
    not be reported to OSCCR (except when there is a clear pattern of repeated
-   invocations of this clause).
+  invocations of this clause).
 
 I will not look at any submissions until 48 hours after the due date / late
 deadline / exam completion time.
@@ -295,6 +288,14 @@ If the 48 hours have passed and you have not informed me of
 your desire to invoke the "regret clause" and I detect academic misconduct, it
 will result in disciplinary action, up to failure in the course, and will be
 reported to the Office of Student Conduct and Conflict Resolution.
+
+## Face Masks
+Face coverings that cover both the nose and mouth are required to be worn
+in the classroom. Students who have forgotten their face covering
+may get a disposable mask at a campus office. The evidence is clear that face
+coverings are a crucial part of keeping coronavirus at bay.
+Students refusing to wear a mask correctly
+will be asked to leave the classroom and a student conduct report may be filed.
 
 ## Equity and Inclusion
 As an instructor, I strive to create an equitable and inclusive learning
